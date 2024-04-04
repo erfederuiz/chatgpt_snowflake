@@ -2,6 +2,7 @@ dist/
 build/
 venv/
 snowflake_39/
+secrets/
 
 .python-version
 
